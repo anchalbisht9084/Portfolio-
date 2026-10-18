@@ -1,0 +1,78 @@
+body{
+    text-align:left;
+    font-size: large;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin: 0;
+  
+}
+
+.main {
+    background-image: url("Bimage.jpg");
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 1px ;
+}
+
+.nevbar{
+    text-align:center;
+    text-decoration:  underline;
+    font-size: larger;
+}
+
+.skills h2{
+    text-decoration: dashed underline;
+    padding-left: 3%;
+    color: aliceblue;
+}
+
+.Hobbies h2{
+    text-decoration: dashed underline;
+    padding-left: 3%;
+    color: aliceblue;
+}
+
+.DBoard h2{
+    text-decoration: dashed underline;
+    padding-left: 3%;
+    color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+    padding: 1%;
+}
+
+footer h4{
+    text-decoration: dashed underline;
+    padding-left: 1%;
+    color: rgb(248, 248, 248);
+}
+
+footer{
+    padding: 1%;
+    text-decoration: none;
+}
+
+html ,.Project {
+    background-image: url("Bimage.jpg");
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.Project h1{
+    text-align: center;
+    text-decoration: dashed underline;
+    color: aliceblue;
+}
+.Project{
+    padding: 1%;
+}
