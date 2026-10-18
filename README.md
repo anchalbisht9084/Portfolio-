@@ -1,19 +1,18 @@
-# My First HTML Portfolio
+# My First  Portfolio
 
 ## About
-This is my first portfolio website created using HTML.
+This is my first portfolio website created using HTML and CSS.
 
 ## Features
 - About Me
 - Skills
-- Education
 - Projects
 - Contact Section
 
 ## Technologies Used
 - HTML
+- CSS
 
 ## Future Improvements
-- Add CSS
 - Add JavaScript
 - Make it responsive
